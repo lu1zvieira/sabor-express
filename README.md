@@ -10,13 +10,16 @@ Projeto realizado de acordo com o curso: Python: Crie sua primeira aplicação. 
 
 ### 🎯 **Sabor Express**
 Criei um projeto em Python.
+
 Descubri o fluxo de uma aplicação com o uso de condicionais e laços de repetição.
+
 Aprendi a utilizar blocos de controle de execução try-except
+
 Criei funções para mostrar o menu principal e registrar restaurantes em listas e dicionários
  
 ### 🚀 Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-239120?style=for-the-badge&logo=python&logoColor=white">
     
 </div>
 
